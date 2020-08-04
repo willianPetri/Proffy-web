@@ -52,6 +52,7 @@ textarea {
 .container {
   width: 90vw;
   max-width: 700px;
+  height: 75vh;
 }
 
 @media(min-width: 700px) {
